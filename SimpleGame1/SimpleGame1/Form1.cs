@@ -221,7 +221,6 @@ namespace SimpleGame1
             if (e.KeyCode == Keys.Right)
             {
                 RightMoveTimer.Stop();
-             //   MessageBox.Show("right");
                     }
 
 
