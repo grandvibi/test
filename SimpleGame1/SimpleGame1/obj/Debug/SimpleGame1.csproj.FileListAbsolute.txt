@@ -1,0 +1,20 @@
+C:\Users\grand\source\repos\SimpleGame1\SimpleGame1\bin\Debug\SimpleGame1.exe.config
+C:\Users\grand\source\repos\SimpleGame1\SimpleGame1\bin\Debug\SimpleGame1.exe
+C:\Users\grand\source\repos\SimpleGame1\SimpleGame1\bin\Debug\SimpleGame1.pdb
+C:\Users\grand\source\repos\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.csprojAssemblyReference.cache
+C:\Users\grand\source\repos\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.Form1.resources
+C:\Users\grand\source\repos\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.Properties.Resources.resources
+C:\Users\grand\source\repos\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.csproj.GenerateResource.cache
+C:\Users\grand\source\repos\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.exe
+C:\Users\grand\source\repos\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.pdb
+C:\Users\grand\OneDrive\Рабочий стол\SpaceAvoidGame\SimpleGame1\SimpleGame1\bin\Debug\SimpleGame1.exe.config
+C:\Users\grand\OneDrive\Рабочий стол\SpaceAvoidGame\SimpleGame1\SimpleGame1\bin\Debug\SimpleGame1.exe
+C:\Users\grand\OneDrive\Рабочий стол\SpaceAvoidGame\SimpleGame1\SimpleGame1\bin\Debug\SimpleGame1.pdb
+C:\Users\grand\OneDrive\Рабочий стол\SpaceAvoidGame\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Рабочий стол\SpaceAvoidGame\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.Form1.resources
+C:\Users\grand\OneDrive\Рабочий стол\SpaceAvoidGame\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.Properties.Resources.resources
+C:\Users\grand\OneDrive\Рабочий стол\SpaceAvoidGame\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.csproj.GenerateResource.cache
+C:\Users\grand\OneDrive\Рабочий стол\SpaceAvoidGame\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.exe
+C:\Users\grand\OneDrive\Рабочий стол\SpaceAvoidGame\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.pdb
+C:\Users\grand\OneDrive\Рабочий стол\SpaceAvoidGame\SimpleGame1\SimpleGame1\obj\Debug\Interop.WMPLib.dll
+C:\Users\grand\OneDrive\Рабочий стол\SpaceAvoidGame\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.csproj.ResolveComReference.cache
